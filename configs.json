@@ -1,9 +1,0 @@
-{
-  "proxy_mode": "round",
-  "rotate_proxy": false,
-  "skip_invalid_proxy": true,
-  "proxy_rotation_interval": 2,
-  "delay_each_account": [1, 1],
-  "time_to_restart_all_accounts": 300,
-  "how_many_accounts_run_in_one_time": 1,
-}
